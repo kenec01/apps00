@@ -1,0 +1,29 @@
+{
+  "name": "apps00",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenec01/apps00.git"
+  },
+  "author": "kenec01",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kenec01/apps00/issues"
+  },
+  "homepage": "https://github.com/kenec01/apps00#readme",
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "eslint": "^3.15.0",
+    "eslint-plugin-react": "^6.9.0"
+  },
+  "dependencies": {
+    "timeengine": "*"
+  },
+  "description": ""
+}
